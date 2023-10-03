@@ -8,3 +8,7 @@ Allure report is already integrated (will need plugin in Jenkins)
 
 to run allure report locally execute:
 mvn allure:serve
+
+
+Important notes:
+Add username and password to AccConsts class
